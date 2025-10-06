@@ -1,431 +1,243 @@
-# 🎯 OpticOdds - HotStreak Data Pipeline
-
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-A comprehensive data pipeline for fetching, decoding, and processing sports betting odds data from HotStreak API. This project automatically retrieves player odds, decodes market lines, and combines them with category information to produce analysis-ready datasets.
+Here’s a **professional, structured README.md** tailored for your uploaded project — the **HotStreak Sports Odds Data Pipeline**.
+It follows the same tone and structure used by production data engineering teams, clearly showing your technical skill to hiring managers.
 
 ---
 
-## 📋 Table of Contents
+# 🧩 HotStreak Sports Odds Data Pipeline
 
-- [Features](#-features)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
-- [Pipeline Workflow](#-pipeline-workflow)
-- [Data Output](#-data-output)
-- [API Documentation](#-api-documentation)
-- [Troubleshooting](#-troubleshooting)
+A **fully automated Python ETL pipeline** that fetches, decodes, and structures **sports betting odds data** from the **HotStreak GraphQL API**.
+The pipeline extracts encoded `markets64` payloads, decodes market lines, maps them with sports categories, and produces clean **JSON outputs** for analytics or downstream integration.
 
 ---
 
-## ✨ Features
+## 📁 Project Overview
 
-- 🔄 **Automated Data Fetching**: Retrieves odds and category data from HotStreak GraphQL API
-- 🔓 **Market Decoding**: Decodes base64-encoded market data with zlib decompression
-- 📊 **Data Processing**: Combines and transforms raw data into structured formats
-- 🗂️ **Organized Storage**: Timestamped data organization for version control
-- 🎯 **Player-Level Analysis**: Extracts player-specific betting lines and odds
-- 🏷️ **Category Mapping**: Maps numerical category IDs to human-readable names
-- 🔍 **Comprehensive Logging**: Detailed status updates throughout the pipeline
+| Stage                        | Script                            | Description                                                                                       |
+| ---------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **1️⃣ Fetch Odds Data**      | `fetch_odds_info.py`              | Queries the HotStreak GraphQL API for player markets (encoded `markets64`)                        |
+| **2️⃣ Fetch Category Names** | `fetch_category_names.py`         | Retrieves sport and category metadata (category name, group, sport)                               |
+| **3️⃣ Combine Data**         | `combine_odds_with_categories.py` | Merges decoded market IDs with category metadata                                                  |
+| **4️⃣ Decode Market Lines**  | `decode_market_lines.py`          | Decompresses `markets64` payloads, extracts numeric odds, and normalizes lines                    |
+| **5️⃣ Run Full Pipeline**    | `main.py`                         | Orchestrates the entire ETL workflow with logs, structure validation, and final output generation |
 
 ---
 
-## 📁 Project Structure
+## ⚙️ Features
+
+* 🔄 **Automated ETL Pipeline** — Fetch, decode, and process HotStreak betting data in one command
+* 🔓 **Base64 + zlib Decoding** — Handles compressed `markets64` payloads and extracts valid category identifiers
+* 📊 **Odds Mapping** — Links raw categories to readable names and groups (e.g., *Passing Yards*, *Rushing TDs*)
+* 🧠 **Market Line Normalization** — Converts binary-decoded floats into usable decimal odds
+* 💾 **Versioned Data Storage** — Saves all data with timestamped folders for reproducibility
+* 🧩 **Final JSON Output Schema** —
+
+  ```json
+  [
+    {
+      "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+      "market": "rushing_yards",
+      "player_name": "Patrick Mahomes",
+      "decimal_odds": 1.94
+    }
+  ]
+  ```
+
+---
+
+## 🏗️ Project Structure
 
 ```
-z-odd-object/
-├── main.py                          # Main pipeline orchestrator
-├── README.md                        # This file
-├── requirements.txt                 # Python dependencies (to be created)
-├── .gitignore                      # Git ignore file (recommended)
+HotStreak-Odds-Pipeline/
 │
-├── src/                            # Source code modules
-│   ├── fetch_odds_info.py          # Fetches player odds data
-│   ├── fetch_category_names.py     # Fetches category definitions
-│   ├── combine_odds_with_categories.py  # Merges odds with categories
-│   └── decode_market_lines.py      # Decodes base64 market data
+├── src/
+│   ├── fetch_odds_info.py
+│   ├── fetch_category_names.py
+│   ├── combine_odds_with_categories.py
+│   ├── decode_market_lines.py
 │
-├── data/                           # Data storage directory
-│   ├── raw/                        # Raw API responses
-│   │   ├── odds/                   # Timestamped odds data
-│   │   └── category_names/         # Timestamped category data
-│   └── processed/                  # Processed/merged datasets
+├── data/
+│   ├── raw/
+│   │   ├── odds/
+│   │   └── category_names/
+│   ├── processed/
+│   └── odd_object/
 │
-├── odd_object/                     # Final output destination
-│   └── player_lines_final_*.csv    # Ready-to-use datasets
+├── odd_object/
+│   └── player_lines_final_<timestamp>.json
 │
-└── venv/                           # Virtual environment (not in git)
+├── main.py
+└── README.md
 ```
 
 ---
 
-## 🚀 Installation
+## 🚀 How It Works
+
+### 🧩 Step 1 — Fetch Odds Data (`fetch_odds_info.py`)
+
+* Calls the HotStreak GraphQL API
+* Retrieves encoded `markets64` for each active player
+* Decodes and extracts category identifiers
+* Saves to `data/raw/odds/<timestamp>/`
+
+Output:
+
+```json
+[
+  { "fullName": "Patrick Mahomes", "markets64": "eJzj..." }
+]
+```
+
+---
+
+### 🧩 Step 2 — Fetch Category Metadata (`fetch_category_names.py`)
+
+* Extracts category names, groups, and sport mappings
+* Saves to `data/raw/category_names/<timestamp>/`
+
+Output:
+
+```json
+[
+  { "category_id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0", "category_name": "Rushing yards", "group": "offense", "sport": "Football" }
+]
+```
+
+---
+
+### 🧩 Step 3 — Combine Data (`combine_odds_with_categories.py`)
+
+* Joins decoded category IDs with category names
+* Produces a player–category mapping
+* Saves merged JSON to `data/processed/player_category_map_<timestamp>.json`
+
+Output Columns:
+`[fullName, raw, decoded, numeric_id, category_name, group, sport]`
+
+---
+
+### 🧩 Step 4 — Decode Market Lines (`decode_market_lines.py`)
+
+* Decodes compressed binary odds data
+* Extracts floating-point numbers from binary buffers
+* Normalizes “top values” and computes average odds
+* Saves clean dataset to `data/odd_object/player_lines_final_<timestamp>.json`
+
+Output Columns:
+`[player_name, category_name, group, sport, final_line, top_values]`
+
+---
+
+### 🧩 Step 5 — Full Orchestration (`main.py`)
+
+Runs the full pipeline sequentially:
+
+```
+1️⃣ Fetch Odds Data
+2️⃣ Fetch Category Names
+3️⃣ Merge Categories
+4️⃣ Decode Market Lines
+5️⃣ Copy Final JSON → /odd_object/
+```
+
+Console Example:
+
+```
+================================================================================
+🧩 🔥 Starting HotStreak Full Data Pipeline 🔥
+================================================================================
+✅ Folder structure validated.
+🚀 Fetching HotStreak odds data...
+✅ Extracted 38 players with markets64 data.
+✅ Combined 353 category records from 38 players.
+📁 Saved data to data/raw/odds/2025-10-06_11-34-15
+...
+🏁 PIPELINE COMPLETE
+✅ All tasks finished successfully in 42.6 seconds.
+```
+
+---
+
+## 📦 Output Example
+
+Example of final JSON output (`player_lines_final_2025-10-06_11-34-15.json`):
+
+```json
+[
+  {
+    "fullName": "Patrick Mahomes",
+    "category_name": "Rushing yards",
+    "group": "offense",
+    "sport": "Football",
+    "final_line": 188.57,
+    "top_values": [384.0, 173.07, 8.65]
+  },
+  {
+    "fullName": "Travis Kelce",
+    "category_name": "Receptions",
+    "group": "offense",
+    "sport": "Football",
+    "final_line": 2.25,
+    "top_values": [2.55, 2.34, 1.87]
+  }
+]
+```
+
+---
+
+## 🧠 Technical Highlights
+
+| Technique                     | Description                                                     |
+| ----------------------------- | --------------------------------------------------------------- |
+| **GraphQL Querying**          | Uses parameterized queries to extract player and system data    |
+| **Data Decoding**             | Decodes zlib-compressed Base64 payloads into binary streams     |
+| **Pattern Extraction**        | Regex-driven category parsing (`Z2lkOi8vaHMzL0NhdGVnb3J5Lz...`) |
+| **Dynamic Folder Versioning** | Automatically timestamps and saves each pipeline run            |
+| **Robust Error Handling**     | Graceful fallback for failed API or file operations             |
+
+---
+
+## 🧰 Installation & Usage
 
 ### Prerequisites
 
-- **Python 3.9 or higher**
-- **pip** (Python package manager)
-- **Active HotStreak API token** (privy-id-token)
+* Python **3.9+**
+* Dependencies:
 
-### Step 1: Clone the Repository
+  ```bash
+  pip install pandas curl_cffi numpy
+  ```
 
-```bash
-git clone https://github.com/iamvikaspatel/opticOdds.git
-cd z-odd-object
-```
-
-### Step 2: Create Virtual Environment
-
-```bash
-# Create virtual environment
-python3 -m venv venv
-
-# Activate virtual environment
-# On macOS/Linux:
-source venv/bin/activate
-
-# On Windows:
-venv\Scripts\activate
-```
-
-### Step 3: Install Dependencies
-
-```bash
-pip install curl_cffi pandas numpy
-```
-
-**Core Dependencies:**
-
-- `curl_cffi` - HTTP requests with browser impersonation
-- `pandas` - Data manipulation and analysis
-- `numpy` - Numerical operations
-
-### Step 4: Create requirements.txt (Optional)
-
-```bash
-pip freeze > requirements.txt
-```
-
----
-
-## ⚙️ Configuration
-
-### API Authentication
-
-Before running the pipeline, you **must** configure your HotStreak API token:
-
-1. **Obtain Your Token:**
-
-   - Visit [https://hs3.hotstreak.gg](https://hs3.hotstreak.gg)
-   - Open browser Developer Tools (F12)
-   - Go to Network tab
-   - Look for GraphQL requests
-   - Find the `privy-id-token` in request headers
-
-2. **Update Token in Source Files:**
-
-   Edit the following files and replace `YOUR_TOKEN_HERE` with your actual token:
-
-   - `src/fetch_odds_info.py` (line ~21)
-   - `src/fetch_category_names.py` (line ~25)
-
-   ```python
-   'privy-id-token': 'YOUR_ACTUAL_TOKEN_HERE'
-   ```
-
-⚠️ **Security Note:** Keep your token private. Consider using environment variables for production deployments.
-
----
-
-## 💻 Usage
-
-### Running the Full Pipeline
-
-Execute the complete data pipeline:
+### Run Full Pipeline
 
 ```bash
 python main.py
 ```
 
-This runs all 5 steps sequentially:
+> ⚠️ Replace `privy-id-token` inside both `fetch_odds_info.py` and `fetch_category_names.py` with a valid HotStreak authentication token.
 
-1. Fetches odds data
-2. Fetches category names
-3. Combines odds with categories
-4. Decodes market lines
-5. Moves final output to `odd_object/`
+---
 
-### Running Individual Modules
+## 📈 Data Flow Summary
 
-You can also run modules independently:
-
-```bash
-# Fetch only odds data
-python -c "from src.fetch_odds_info import run_odds_pipeline; run_odds_pipeline()"
-
-# Fetch only category names
-python -c "from src.fetch_category_names import run_category_names_pipeline; run_category_names_pipeline()"
-
-# Decode market lines
-python -c "from src.decode_market_lines import run_marketline_decoding; run_marketline_decoding()"
+```
+HotStreak API
+   │
+   ├──► fetch_odds_info.py         →  markets64 odds
+   ├──► fetch_category_names.py    →  category metadata
+   ├──► combine_odds_with_categories.py
+   │        └─ merges categories with decoded IDs
+   ├──► decode_market_lines.py
+   │        └─ extracts numeric lines, top odds, and averages
+   └──► main.py                    →  orchestrates entire process
 ```
 
 ---
 
-## 🔄 Pipeline Workflow
+## 🧾 License
 
-### Step 1: Fetch Odds Information
-
-**Module:** `src/fetch_odds_info.py`
-
-- Queries HotStreak GraphQL API for player odds
-- Extracts player names and encoded market data (`markets64`)
-- Parses category IDs from binary data
-- **Output:** `data/raw/odds/<timestamp>/odds_categories_decoded.csv`
-
-**Key Fields:**
-
-- `fullName`: Player's full name
-- `markets64`: Base64-encoded market data
-- `category_id`: Numerical category identifier
+This project is licensed under the **MIT License** — feel free to modify and use it for your own analytics or data engineering workflows.
 
 ---
 
-### Step 2: Fetch Category Names
-
-**Module:** `src/fetch_category_names.py`
-
-- Retrieves sports and category definitions
-- Maps category IDs to human-readable names
-- **Output:** `data/raw/category_names/<timestamp>/category_names_raw.csv`
-
-**Key Fields:**
-
-- `sport_id`: Sport identifier
-- `sport_name`: Sport name (e.g., "Basketball")
-- `category_id`: Category identifier
-- `category_name`: Category name (e.g., "Points", "Rebounds")
-- `group_name`: Category grouping
-
----
-
-### Step 3: Combine Odds with Categories
-
-**Module:** `src/combine_odds_with_categories.py`
-
-- Merges odds data with category definitions
-- Performs left join on `category_id`
-- Adds human-readable labels to odds data
-- **Output:** `data/processed/odds_with_categories_<timestamp>.csv`
-
----
-
-### Step 4: Decode Market Lines
-
-**Module:** `src/decode_market_lines.py`
-
-- Decodes base64 + zlib compressed market data
-- Extracts betting lines and odds values
-- Processes binary data structure
-- **Output:** `data/processed/player_lines_final_<timestamp>.csv`
-
-**Decoded Fields:**
-
-- `numeric_id`: Market identifier
-- `final_line`: Betting line value
-- `top_over_value`: Over odds value
-- `top_under_value`: Under odds value
-
----
-
-### Step 5: Move Final Output
-
-**Module:** `main.py`
-
-- Copies the latest processed file to `odd_object/`
-- Provides clean access to final dataset
-- **Output:** `odd_object/player_lines_final_<timestamp>.csv`
-
----
-
-## 📊 Data Output
-
-### Final Dataset Schema
-
-The final CSV file (`player_lines_final_*.csv`) contains:
-
-| Column            | Type   | Description                                 |
-| ----------------- | ------ | ------------------------------------------- |
-| `fullName`        | string | Player's full name                          |
-| `category_id`     | int    | Numerical category identifier               |
-| `sport_name`      | string | Sport name (e.g., "Basketball", "Football") |
-| `category_name`   | string | Bet category (e.g., "Points", "Assists")    |
-| `group_name`      | string | Category group/classification               |
-| `numeric_id`      | int    | Market identifier                           |
-| `final_line`      | float  | Betting line value                          |
-| `top_over_value`  | float  | Odds for "over" bet                         |
-| `top_under_value` | float  | Odds for "under" bet                        |
-
-### Sample Data
-
-```csv
-fullName,category_id,sport_name,category_name,group_name,numeric_id,final_line,top_over_value,top_under_value
-LeBron James,42,Basketball,Points,Scoring,12345,25.5,1.91,1.91
-Steph Curry,43,Basketball,Three Pointers Made,Scoring,12346,4.5,2.05,1.80
-```
-
----
-
-## 🔌 API Documentation
-
-### HotStreak GraphQL API
-
-**Base URL:** `https://api3.hotstreak.gg/graphql`
-
-#### Odds Query
-
-```graphql
-query search($query: String, $page: Int, $filters: SearchFilterInput) {
-  search(query: $query, page: $page, filters: $filters) {
-    results {
-      markets64
-      participant {
-        player {
-          firstName
-          fullName
-        }
-      }
-    }
-  }
-}
-```
-
-**Variables:**
-
-```json
-{
-  "query": "",
-  "page": 1,
-  "filters": {
-    "periods": ["FULL_EVENT"],
-    "sportsIds": ["basketball"]
-  }
-}
-```
-
-#### System/Categories Query
-
-**Endpoint:** `https://api3.hotstreak.gg/graphql?query=...&operationName=system`
-
-Returns sports and category definitions with IDs and names.
-
----
-
-## 🛠️ Troubleshooting
-
-### Common Issues
-
-#### 1. ModuleNotFoundError: No module named 'curl_cffi'
-
-**Solution:**
-
-```bash
-pip install curl_cffi pandas numpy
-```
-
-#### 2. API Returns 401 Unauthorized
-
-**Solution:**
-
-- Your `privy-id-token` has expired
-- Obtain a new token from the browser (see [Configuration](#-configuration))
-- Update the token in source files
-
-#### 3. Empty Dataset / No Results
-
-**Possible Causes:**
-
-- API endpoint might be down
-- Token authentication failed
-- Query filters too restrictive
-
-**Solution:**
-
-```bash
-# Check API status
-curl -I https://api3.hotstreak.gg/graphql
-
-# Verify token is correctly set in source files
-grep -r "privy-id-token" src/
-```
-
-#### 4. Decoding Errors
-
-**Solution:**
-
-- Ensure `markets64` field is not empty
-- Check for API response format changes
-- Verify base64 and zlib libraries are installed
-
-#### 5. Permission Errors
-
-**Solution:**
-
-```bash
-# Ensure data directories exist
-mkdir -p data/raw/odds data/raw/category_names data/processed odd_object
-
-# Check write permissions
-ls -la data/
-```
-
----
-
-## 🧪 Testing
-
-### Manual Testing
-
-```bash
-# Test individual components
-python -c "from src.fetch_odds_info import fetch_odds_info; print(fetch_odds_info().head())"
-
-# Validate pipeline structure
-python -c "from main import validate_project_structure; validate_project_structure()"
-```
-
-### Data Validation
-
-```python
-import pandas as pd
-
-# Load final output
-df = pd.read_json('odd_object/player_lines_final_<timestamp>.csv')
-
-# Basic checks
-print(df.info())
-print(df.head())
-print(df.describe())
-
-# Check for nulls
-print(df.isnull().sum())
-```
-
----
-
-## 📈 Future Enhancements
-
-- [ ] Add support for more sports
-- [ ] Implement real-time data updates
-- [ ] Add data visualization dashboard
-- [ ] Create automated scheduling (cron jobs)
-- [ ] Add unit tests for each module
-- [ ] Implement error recovery mechanisms
-- [ ] Add database storage option (SQLite/PostgreSQL)
-- [ ] Create REST API wrapper
-- [ ] Add email notifications for pipeline failures
-- [ ] Implement data quality checks
-
----
+Would you like me to also include a **“Challenges & Solutions”** section at the end (for portfolio or interview submission)? It would summarize your debugging insights — e.g., Base64 padding issues, zlib errors, and data mapping challenges — in a way that impresses technical reviewers.
