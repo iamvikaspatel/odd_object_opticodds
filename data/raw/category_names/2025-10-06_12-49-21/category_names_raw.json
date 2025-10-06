@@ -1,0 +1,2240 @@
+[
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg5",
+    "category_name":"Defensive tackles assists",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxMA",
+    "category_name":"First half passing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc3",
+    "category_name":"Passing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0OQ",
+    "category_name":"First half moneyline",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1MA",
+    "category_name":"First half spread",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1NA",
+    "category_name":"Second half totals",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1NQ",
+    "category_name":"First quarter moneyline",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3MQ",
+    "category_name":"First half passing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3Mw",
+    "category_name":"First quarter passing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3NQ",
+    "category_name":"Third quarter passing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3Ng",
+    "category_name":"Fourth quarter passing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwNw",
+    "category_name":"First half interceptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcx",
+    "category_name":"Passing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc2",
+    "category_name":"Interceptions thrown",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg1",
+    "category_name":"Longest completion",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkw",
+    "category_name":"Field goal made",
+    "group":"specialteams",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkx",
+    "category_name":"Extra point made",
+    "group":"specialteams",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk1",
+    "category_name":"Passing rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk4",
+    "category_name":"Team lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwMA",
+    "category_name":"Moneyline",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwMQ",
+    "category_name":"Spread",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwMg",
+    "category_name":"Totals",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwMw",
+    "category_name":"Team rushing attempts",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwNA",
+    "category_name":"Team receiving touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwNQ",
+    "category_name":"Team passing touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwNg",
+    "category_name":"Team passing yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwNw",
+    "category_name":"Team receptions",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwOA",
+    "category_name":"Team defensive tackles",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEwOQ",
+    "category_name":"Match receiving yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExMA",
+    "category_name":"Match rushing yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExMQ",
+    "category_name":"Match passing yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExMg",
+    "category_name":"Match passing completions",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExMw",
+    "category_name":"Match tackles assists",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExNA",
+    "category_name":"Team first touchdown",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExNQ",
+    "category_name":"Team last touchdown",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExNg",
+    "category_name":"No touchdown",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExNw",
+    "category_name":"Team defense or st touchdown",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExOA",
+    "category_name":"Team receiving yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzExOQ",
+    "category_name":"Team total touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyMA",
+    "category_name":"Team rush touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyMQ",
+    "category_name":"Team rushing yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyMg",
+    "category_name":"Team offense touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyMw",
+    "category_name":"Team offense yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyNA",
+    "category_name":"Team rushing and receiving yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyNQ",
+    "category_name":"Team points",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyNg",
+    "category_name":"Team defensive tackles and assists",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyNw",
+    "category_name":"Team sacks",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyOA",
+    "category_name":"Match total touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEyOQ",
+    "category_name":"Match rushing touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg4",
+    "category_name":"Defensive assists",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgx",
+    "category_name":"Passing completions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzMA",
+    "category_name":"Match passing touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzMQ",
+    "category_name":"Match receiving touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzMg",
+    "category_name":"Match offensive touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzMw",
+    "category_name":"Match offense yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzNA",
+    "category_name":"Match rushing and receiving yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzNQ",
+    "category_name":"Match passing and rushing yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzNg",
+    "category_name":"Match rushing attempts",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzNw",
+    "category_name":"Match receptions",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzOA",
+    "category_name":"Match tackles",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEzOQ",
+    "category_name":"Match sacks",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0MA",
+    "category_name":"Match assists",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0MQ",
+    "category_name":"Team passing yard gross",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0Mg",
+    "category_name":"Match passing yard gross",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0Mw",
+    "category_name":"Team 2pt made",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0NA",
+    "category_name":"Team 2pt attempts",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0NQ",
+    "category_name":"Match 2pt made",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0Ng",
+    "category_name":"Match 2pt attempts",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0Nw",
+    "category_name":"Team fumbles",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0OA",
+    "category_name":"Match fumbles",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1MQ",
+    "category_name":"First half totals",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1Mg",
+    "category_name":"Second half moneyline",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1Mw",
+    "category_name":"Second half spread",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1Ng",
+    "category_name":"First quarter spread",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1Nw",
+    "category_name":"First quarter totals",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1OA",
+    "category_name":"Second quarter moneyline",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1OQ",
+    "category_name":"Second quarter spread",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2MA",
+    "category_name":"Second quarter totals",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2MQ",
+    "category_name":"Third quarter moneyline",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2Mg",
+    "category_name":"Third quarter spread",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2Mw",
+    "category_name":"Third quarter totals",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2NA",
+    "category_name":"Fourth quarter moneyline",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2NQ",
+    "category_name":"Fourth quarter spread",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2Ng",
+    "category_name":"Fourth quarter totals",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcw",
+    "category_name":"Passing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzky",
+    "category_name":"Kicking points",
+    "group":"specialteams",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk5",
+    "category_name":"Match lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3MA",
+    "category_name":"Tackles",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3Mg",
+    "category_name":"Second half passing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4Mw",
+    "category_name":"Leaders team receiving yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4NA",
+    "category_name":"Leaders game receiving yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4NQ",
+    "category_name":"Leaders day receiving yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4OQ",
+    "category_name":"Leaders team receiving touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5MA",
+    "category_name":"Leaders game receiving touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5MQ",
+    "category_name":"Leaders day receiving touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5NQ",
+    "category_name":"Leaders team rushing yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5Ng",
+    "category_name":"Leaders game rushing yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5Nw",
+    "category_name":"Leaders day rushing yards",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwMQ",
+    "category_name":"Leaders team rushing touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwMg",
+    "category_name":"Leaders game rushing touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwMw",
+    "category_name":"Leaders day rushing touchdowns",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxNg",
+    "category_name":"Leaders team receptions",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxNw",
+    "category_name":"Leaders game receptions",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxOA",
+    "category_name":"Leaders day receptions",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyOA",
+    "category_name":"Leaders team anytime touchdown",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyOQ",
+    "category_name":"Leaders game anytime touchdown",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzMA",
+    "category_name":"Leaders day anytime touchdown",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxMQ",
+    "category_name":"Second half passing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxMg",
+    "category_name":"First quarter passing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxMw",
+    "category_name":"First half rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxNA",
+    "category_name":"Second half rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxNQ",
+    "category_name":"First quarter rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyNQ",
+    "category_name":"First half passing completions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyNg",
+    "category_name":"Second half passing completions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyNw",
+    "category_name":"First quarter passing completions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3NA",
+    "category_name":"Second quarter passing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3Nw",
+    "category_name":"First half passing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3OA",
+    "category_name":"Second half passing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3OQ",
+    "category_name":"First quarter passing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4MA",
+    "category_name":"Second quarter passing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4MQ",
+    "category_name":"Third quarter passing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4Mg",
+    "category_name":"Fourth quarter passing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4Ng",
+    "category_name":"First half receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4Nw",
+    "category_name":"Second half receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4OA",
+    "category_name":"First quarter receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5Mg",
+    "category_name":"First half receiving touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5Mw",
+    "category_name":"Second half receiving touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5NA",
+    "category_name":"First quarter receiving touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5OA",
+    "category_name":"First half rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5OQ",
+    "category_name":"Second half rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwMA",
+    "category_name":"First quarter rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwNA",
+    "category_name":"First half rushing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwNQ",
+    "category_name":"Second half rushing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwNg",
+    "category_name":"First quarter rushing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwOA",
+    "category_name":"Second half interceptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMwOQ",
+    "category_name":"First quarter interceptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMxOQ",
+    "category_name":"First half receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyMA",
+    "category_name":"Second half receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyMQ",
+    "category_name":"First quarter receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyMg",
+    "category_name":"First half rushing receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyMw",
+    "category_name":"Second half rushing receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMyNA",
+    "category_name":"First quarter rushing receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzMQ",
+    "category_name":"First half anytime touchdown",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzMg",
+    "category_name":"Second half anytime touchdown",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzNw",
+    "category_name":"Leaders team longest reception",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzOA",
+    "category_name":"Leaders game longest reception",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzOQ",
+    "category_name":"Leaders day longest reception",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0MA",
+    "category_name":"Leaders team longest rush",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0MQ",
+    "category_name":"Leaders game longest rush",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0Mg",
+    "category_name":"Leaders day longest rush",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM5MA",
+    "category_name":"Match passing attempts",
+    "group":"uncategorized",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1OA",
+    "category_name":"Second quarter passing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1OQ",
+    "category_name":"Third quarter passing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2MA",
+    "category_name":"Fourth quarter passing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2MQ",
+    "category_name":"Second quarter rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2Mg",
+    "category_name":"Third quarter rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2Mw",
+    "category_name":"Fourth quarter rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM3MA",
+    "category_name":"Second quarter passing completions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM3MQ",
+    "category_name":"Third quarter passing completions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM3Mg",
+    "category_name":"Fourth quarter passing completions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzMw",
+    "category_name":"First quarter anytime touchdown",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzNA",
+    "category_name":"Second quarter anytime touchdown",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzNQ",
+    "category_name":"Third quarter anytime touchdown",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMzNg",
+    "category_name":"Fourth quarter anytime touchdown",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0Mw",
+    "category_name":"Second quarter receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0NA",
+    "category_name":"Third quarter receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0NQ",
+    "category_name":"Fourth quarter receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0Ng",
+    "category_name":"Second quarter receiving touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0Nw",
+    "category_name":"Third quarter receiving touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0OA",
+    "category_name":"Fourth quarter receiving touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0OQ",
+    "category_name":"Second quarter rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1MA",
+    "category_name":"Third quarter rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1MQ",
+    "category_name":"Fourth quarter rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1Mg",
+    "category_name":"Second quarter rushing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1Mw",
+    "category_name":"Third quarter rushing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1NA",
+    "category_name":"Fourth quarter rushing touchdowns",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1NQ",
+    "category_name":"Second quarter interceptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1Ng",
+    "category_name":"Third quarter interceptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1Nw",
+    "category_name":"Fourth quarter interceptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2NA",
+    "category_name":"Second quarter receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2NQ",
+    "category_name":"Third quarter receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2Ng",
+    "category_name":"Fourth quarter receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2Nw",
+    "category_name":"Second quarter rushing receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2OA",
+    "category_name":"Third quarter rushing receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2OQ",
+    "category_name":"Fourth quarter rushing receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI",
+    "category_name":"Assists",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQ",
+    "category_name":"Steals",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM",
+    "category_name":"Rebounds",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzU",
+    "category_name":"Turnovers",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzY",
+    "category_name":"Blocks",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc",
+    "category_name":"Threes made",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk",
+    "category_name":"Triple double",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEw",
+    "category_name":"Points assists",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEx",
+    "category_name":"Points rebounds",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEy",
+    "category_name":"Assists rebounds",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzEz",
+    "category_name":"Points assists rebounds",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE0",
+    "category_name":"Steals blocks",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2",
+    "category_name":"First quarter assists",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3",
+    "category_name":"First quarter rebounds",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4",
+    "category_name":"First basket scorer",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5",
+    "category_name":"First basket exact ft",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIw",
+    "category_name":"First basket exact 2pt",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIx",
+    "category_name":"First basket exact 3pt",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIy",
+    "category_name":"Ft made",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0",
+    "category_name":"Fg made",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1",
+    "category_name":"Fg attempted",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2",
+    "category_name":"Two made",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI3",
+    "category_name":"Two attempted",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI4",
+    "category_name":"Three attempted",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI5",
+    "category_name":"Personal fouls",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMx",
+    "category_name":"First assist 2pm",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMy",
+    "category_name":"First assist 3pm",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMz",
+    "category_name":"First rebounder",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM0",
+    "category_name":"First rebound oreb",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM1",
+    "category_name":"First rebound dre",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM2",
+    "category_name":"Moneyline",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM3",
+    "category_name":"Spread",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM4",
+    "category_name":"Totals",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzM5",
+    "category_name":"Match assists",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQw",
+    "category_name":"Match rebounds",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQx",
+    "category_name":"Match steals",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQy",
+    "category_name":"Match turnovers",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQz",
+    "category_name":"Match blocks",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQ0",
+    "category_name":"Match three made",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQ1",
+    "category_name":"Team points",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQ2",
+    "category_name":"Team assists",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQ3",
+    "category_name":"Team rebounds",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQ4",
+    "category_name":"Team steals",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzQ5",
+    "category_name":"Team turnovers",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzUw",
+    "category_name":"Team blocks",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzUx",
+    "category_name":"Team three made",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzUy",
+    "category_name":"Team first half win",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzUz",
+    "category_name":"Team first half spread actual",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzU0",
+    "category_name":"Match first half total points",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzU1",
+    "category_name":"Team second half win",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzU2",
+    "category_name":"Team second half spread actual",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzU3",
+    "category_name":"Match second half total points",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzU4",
+    "category_name":"Team quarter one win",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzU5",
+    "category_name":"Team quarter one spread actual",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzYw",
+    "category_name":"Match quarter one total points",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzYx",
+    "category_name":"Team quarter two win",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzYy",
+    "category_name":"Team quarter two spread actual",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzYz",
+    "category_name":"Match quarter two total points",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzY0",
+    "category_name":"Team quarter three win",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzY1",
+    "category_name":"Team quarter three spread actual",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzY2",
+    "category_name":"Match quarter three total points",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzY3",
+    "category_name":"Team quarter four win",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzY4",
+    "category_name":"Team quarter four spread actual",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzY5",
+    "category_name":"Match quarter four total points",
+    "group":"uncategorized",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE",
+    "category_name":"Points",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg",
+    "category_name":"Double double",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE1",
+    "category_name":"First quarter points",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIz",
+    "category_name":"Ft attempted",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzMw",
+    "category_name":"First assister",
+    "group":"all",
+    "sport":"Basketball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0MA",
+    "category_name":"Kills 1",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0MQ",
+    "category_name":"Kills 2",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0Mg",
+    "category_name":"Kills 3",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0Mw",
+    "category_name":"Kills 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0NA",
+    "category_name":"Kills 1 2",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0NQ",
+    "category_name":"Kills 1 3",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0Ng",
+    "category_name":"Kills 1 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0Nw",
+    "category_name":"Kills 2 3",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0OA",
+    "category_name":"Kills 2 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI0OQ",
+    "category_name":"Kills 3 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1MA",
+    "category_name":"Deaths 1",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1MQ",
+    "category_name":"Deaths 2",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1Mg",
+    "category_name":"Deaths 3",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1Mw",
+    "category_name":"Deaths 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1NA",
+    "category_name":"Deaths 1 2",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1NQ",
+    "category_name":"Deaths 1 3",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1Ng",
+    "category_name":"Deaths 1 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1Nw",
+    "category_name":"Deaths 2 3",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1OA",
+    "category_name":"Deaths 2 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI1OQ",
+    "category_name":"Deaths 3 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2MA",
+    "category_name":"Headshots 1",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2MQ",
+    "category_name":"Headshots 2",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2Mg",
+    "category_name":"Headshots 3",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2Mw",
+    "category_name":"Headshots 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2NA",
+    "category_name":"Headshots 1 2",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2NQ",
+    "category_name":"Headshots 1 3",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2Ng",
+    "category_name":"Headshots 1 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2Nw",
+    "category_name":"Headshots 2 3",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2OA",
+    "category_name":"Headshots 2 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzI2OQ",
+    "category_name":"Headshots 3 4",
+    "group":"all",
+    "sport":"CS2"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2OQ",
+    "category_name":"Singles",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2OA",
+    "category_name":"Win probability",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3MA",
+    "category_name":"Doubles",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3Mg",
+    "category_name":"Home runs",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3Mw",
+    "category_name":"Total bases",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3NA",
+    "category_name":"Hits",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3NQ",
+    "category_name":"Hits allowed",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3Nw",
+    "category_name":"Hits runs rbis",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3OA",
+    "category_name":"Outs",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3OQ",
+    "category_name":"Runs",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4MA",
+    "category_name":"Rbis",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4MQ",
+    "category_name":"Stolen bases",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4Mw",
+    "category_name":"Inplay outs",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4NA",
+    "category_name":"Batter strikeouts",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4NQ",
+    "category_name":"Batter walks",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4Ng",
+    "category_name":"No hit",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4Nw",
+    "category_name":"Any other",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4OQ",
+    "category_name":"First earned run",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5MA",
+    "category_name":"First hit",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5MQ",
+    "category_name":"First run",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5Mg",
+    "category_name":"First rbi",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5Mw",
+    "category_name":"First home run",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5NA",
+    "category_name":"Match singles",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5NQ",
+    "category_name":"Match doubles",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5Ng",
+    "category_name":"Match triples",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5Nw",
+    "category_name":"Match home runs",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5OA",
+    "category_name":"Match total bases",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE5OQ",
+    "category_name":"Match hits",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwMA",
+    "category_name":"Match rbis",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwMQ",
+    "category_name":"Match stolen bases",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwMg",
+    "category_name":"Match strikeouts",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwMw",
+    "category_name":"Match batter walks",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwNA",
+    "category_name":"Moneyline",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwNQ",
+    "category_name":"Totals",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwNg",
+    "category_name":"Spread",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwNw",
+    "category_name":"Team singles",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwOA",
+    "category_name":"Team doubles",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIwOQ",
+    "category_name":"Team triples",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxMA",
+    "category_name":"Team home runs",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxMQ",
+    "category_name":"Team total bases",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxMg",
+    "category_name":"Team hits",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxMw",
+    "category_name":"Team runs",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxNA",
+    "category_name":"Team rbis",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxNQ",
+    "category_name":"Team stolen bases",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxNg",
+    "category_name":"Team strikeouts",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxNw",
+    "category_name":"Team batter walks",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxOA",
+    "category_name":"Team first hit",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIxOQ",
+    "category_name":"Team first run",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyMA",
+    "category_name":"Team first rbi",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyMQ",
+    "category_name":"Team first home run",
+    "group":"uncategorized",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE2Nw",
+    "category_name":"Strikeouts",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3MQ",
+    "category_name":"Triples",
+    "group":"batters",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE3Ng",
+    "category_name":"Earned runs",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4Mg",
+    "category_name":"Walks",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzE4OA",
+    "category_name":"First strikeout",
+    "group":"pitchers",
+    "sport":"Baseball"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyMg",
+    "category_name":"Moneyline",
+    "group":"uncategorized",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyMw",
+    "category_name":"Totals",
+    "group":"uncategorized",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyNA",
+    "category_name":"Spread",
+    "group":"uncategorized",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyNQ",
+    "category_name":"Shots",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyNw",
+    "category_name":"Assists",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyOA",
+    "category_name":"Blocked shots",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyOQ",
+    "category_name":"Win",
+    "group":"goalies",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzMA",
+    "category_name":"Goals against",
+    "group":"goalies",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzMQ",
+    "category_name":"Saves",
+    "group":"goalies",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzMg",
+    "category_name":"Shutouts",
+    "group":"goalies",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzMw",
+    "category_name":"Powerplay points",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzNA",
+    "category_name":"Plus minus",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzNQ",
+    "category_name":"Points",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzNg",
+    "category_name":"First goal scorer",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzNw",
+    "category_name":"Last goal scorer",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzOA",
+    "category_name":"Faceoffs won",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIzOQ",
+    "category_name":"Hits",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  },
+  {
+    "category_id":"Z2lkOi8vaHMzL0NhdGVnb3J5LzIyNg",
+    "category_name":"Goals",
+    "group":"skaters",
+    "sport":"Ice Hockey"
+  }
+]

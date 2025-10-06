@@ -1,0 +1,3989 @@
+[
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":173.37,
+    "top_values":[
+      300.13,
+      192.0,
+      27.97
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.75,
+    "top_values":[
+      1.94,
+      1.56
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Interceptions thrown",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.35,
+    "top_values":[
+      3.23,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Passing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":131.35,
+    "top_values":[
+      384.0,
+      6.86,
+      3.19
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.42,
+    "top_values":[
+      2.61,
+      2.47,
+      2.19
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Passing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":215.06,
+    "top_values":[
+      299.01,
+      173.1,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Passing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.89,
+    "top_values":[
+      1.94,
+      1.87,
+      1.86
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.75,
+    "top_values":[
+      1.94,
+      1.56
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Longest completion",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":130.87,
+    "top_values":[
+      192.0,
+      172.65,
+      27.97
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":179.38,
+    "top_values":[
+      192.0,
+      173.07,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Passing completions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":109.96,
+    "top_values":[
+      299.01,
+      27.43,
+      3.43
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.28,
+    "top_values":[
+      1.28
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.29,
+    "top_values":[
+      1.29
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Passing rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":208.66,
+    "top_values":[
+      299.01,
+      299.01,
+      27.97
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.8,
+    "top_values":[
+      1.94,
+      1.67
+    ]
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.73,
+    "top_values":[
+      1.94,
+      1.52
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":190.9,
+    "top_values":[
+      384.0,
+      173.07,
+      15.64
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.72,
+    "top_values":[
+      1.94,
+      1.49
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Interceptions thrown",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":4.92,
+    "top_values":[
+      10.95,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Passing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":78.54,
+    "top_values":[
+      192.0,
+      27.97,
+      15.64
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.05,
+    "top_values":[
+      2.34,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Passing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":166.68,
+    "top_values":[
+      299.01,
+      173.07,
+      27.97
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Passing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":100.94,
+    "top_values":[
+      299.01,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.72,
+    "top_values":[
+      1.94,
+      1.5
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Longest completion",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":67.1,
+    "top_values":[
+      192.0,
+      6.0,
+      3.31
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":113.56,
+    "top_values":[
+      299.01,
+      27.97,
+      13.71
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Passing completions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":63.12,
+    "top_values":[
+      172.65,
+      13.71,
+      3.01
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.18,
+    "top_values":[
+      1.18
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.23,
+    "top_values":[
+      1.23
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Passing rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":172.94,
+    "top_values":[
+      173.1,
+      173.07,
+      172.65
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.93,
+    "top_values":[
+      2.19,
+      1.94,
+      1.67
+    ]
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.74,
+    "top_values":[
+      1.94,
+      1.53
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":27.79,
+    "top_values":[
+      27.97,
+      27.97,
+      27.43
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.78,
+    "top_values":[
+      1.94,
+      1.62
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.65,
+    "top_values":[
+      2.79,
+      2.64,
+      2.52
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.89,
+    "top_values":[
+      1.94,
+      1.87,
+      1.86
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":8.55,
+    "top_values":[
+      13.71,
+      2.86,
+      9.08
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.66,
+    "top_values":[
+      1.94,
+      1.39
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-73.83,
+    "top_values":[
+      1.94,
+      1.65,
+      -225.08
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":10.74,
+    "top_values":[
+      15.64,
+      13.71,
+      2.86
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":172.63,
+    "top_values":[
+      192.0,
+      172.65,
+      153.25
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":6.93,
+    "top_values":[
+      13.71,
+      3.54,
+      3.53
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.38,
+    "top_values":[
+      1.38
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.38,
+    "top_values":[
+      1.38
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.68,
+    "top_values":[
+      1.94,
+      1.43
+    ]
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.33,
+    "top_values":[
+      1.33
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.79,
+    "top_values":[
+      2.87,
+      2.8,
+      2.7
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.92,
+    "top_values":[
+      0.92
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.62,
+    "top_values":[
+      1.87,
+      1.38
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":59.38,
+    "top_values":[
+      173.07,
+      2.61,
+      2.47
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":215.45,
+    "top_values":[
+      300.2,
+      173.07,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-0.17,
+    "top_values":[
+      1.94,
+      1.65,
+      -4.1
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.8,
+    "top_values":[
+      1.94,
+      1.8,
+      1.65
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":132.79,
+    "top_values":[
+      384.0,
+      10.95,
+      3.43
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.38,
+    "top_values":[
+      1.38
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.36,
+    "top_values":[
+      1.36
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.62,
+    "top_values":[
+      1.94,
+      1.31
+    ]
+  },
+  {
+    "fullName":"Travis Kelce",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-20.23,
+    "top_values":[
+      1.18,
+      -41.63
+    ]
+  },
+  {
+    "fullName":"Harrison Butker",
+    "category_name":"Field goal made",
+    "group":"specialteams",
+    "sport":"Football",
+    "final_line":2.05,
+    "top_values":[
+      2.34,
+      1.94,
+      1.86
+    ]
+  },
+  {
+    "fullName":"Harrison Butker",
+    "category_name":"Extra point made",
+    "group":"specialteams",
+    "sport":"Football",
+    "final_line":2.05,
+    "top_values":[
+      2.34,
+      1.94,
+      1.86
+    ]
+  },
+  {
+    "fullName":"Harrison Butker",
+    "category_name":"Kicking points",
+    "group":"specialteams",
+    "sport":"Football",
+    "final_line":2.7,
+    "top_values":[
+      2.77,
+      2.73,
+      2.61
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":59.91,
+    "top_values":[
+      173.07,
+      3.43,
+      3.23
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.36,
+    "top_values":[
+      1.36
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.42,
+    "top_values":[
+      2.61,
+      2.47,
+      2.19
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":140.78,
+    "top_values":[
+      384.0,
+      27.97,
+      10.37
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-6.71,
+    "top_values":[
+      1.94,
+      1.64,
+      -23.71
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-0.17,
+    "top_values":[
+      1.94,
+      1.64,
+      -4.1
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":70.36,
+    "top_values":[
+      192.0,
+      15.64,
+      3.43
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":62.78,
+    "top_values":[
+      145.25,
+      27.43,
+      15.65
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.36,
+    "top_values":[
+      1.36
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.36,
+    "top_values":[
+      1.36
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.31,
+    "top_values":[
+      1.31
+    ]
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.18,
+    "top_values":[
+      1.18
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":164.81,
+    "top_values":[
+      299.01,
+      192.0,
+      3.43
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":58.82,
+    "top_values":[
+      172.65,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.18,
+    "top_values":[
+      2.47,
+      2.19,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":243.24,
+    "top_values":[
+      384.0,
+      173.07,
+      172.65
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.8,
+    "top_values":[
+      1.94,
+      1.65
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.8,
+    "top_values":[
+      1.94,
+      1.66
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":179.24,
+    "top_values":[
+      192.0,
+      173.07,
+      172.65
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":327.74,
+    "top_values":[
+      384.0,
+      300.2,
+      299.01
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.39,
+    "top_values":[
+      1.39
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.86,
+    "top_values":[
+      1.39,
+      0.33
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.66,
+    "top_values":[
+      1.94,
+      1.38
+    ]
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.25,
+    "top_values":[
+      1.25
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":187.98,
+    "top_values":[
+      384.0,
+      173.07,
+      6.86
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.79,
+    "top_values":[
+      1.94,
+      1.64
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.67,
+    "top_values":[
+      2.8,
+      2.67,
+      2.55
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.89,
+    "top_values":[
+      1.94,
+      1.87,
+      1.86
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":20.1,
+    "top_values":[
+      27.97,
+      27.43,
+      4.9
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.67,
+    "top_values":[
+      1.94,
+      1.41
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.8,
+    "top_values":[
+      1.94,
+      1.67
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":27.97,
+    "top_values":[
+      27.97,
+      27.97,
+      27.97
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":131.36,
+    "top_values":[
+      384.0,
+      6.86,
+      3.22
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":110.1,
+    "top_values":[
+      299.01,
+      15.64,
+      15.64
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.41,
+    "top_values":[
+      1.41
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.39,
+    "top_values":[
+      1.39
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.68,
+    "top_values":[
+      1.94,
+      1.42
+    ]
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.31,
+    "top_values":[
+      1.31
+    ]
+  },
+  {
+    "fullName":"Cam Little",
+    "category_name":"Field goal made",
+    "group":"specialteams",
+    "sport":"Football",
+    "final_line":6.48,
+    "top_values":[
+      15.64,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Cam Little",
+    "category_name":"Extra point made",
+    "group":"specialteams",
+    "sport":"Football",
+    "final_line":2.04,
+    "top_values":[
+      2.34,
+      1.94,
+      1.85
+    ]
+  },
+  {
+    "fullName":"Cam Little",
+    "category_name":"Kicking points",
+    "group":"specialteams",
+    "sport":"Football",
+    "final_line":7.06,
+    "top_values":[
+      15.64,
+      2.8,
+      2.73
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":19.6,
+    "top_values":[
+      27.97,
+      27.97,
+      2.86
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.62,
+    "top_values":[
+      1.87,
+      1.37
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.28,
+    "top_values":[
+      2.55,
+      2.34,
+      1.94
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":172.79,
+    "top_values":[
+      173.07,
+      172.65,
+      172.65
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.76,
+    "top_values":[
+      1.94,
+      1.59
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.46,
+    "top_values":[
+      1.94,
+      1.59,
+      -2.16
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":19.42,
+    "top_values":[
+      27.97,
+      27.43,
+      2.86
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":285.36,
+    "top_values":[
+      384.0,
+      299.01,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.3,
+    "top_values":[
+      1.3
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-61.39,
+    "top_values":[
+      1.33,
+      -124.11
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.65,
+    "top_values":[
+      1.94,
+      1.36
+    ]
+  },
+  {
+    "fullName":"Travis Hunter",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-20.23,
+    "top_values":[
+      1.18,
+      -41.63
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":230.55,
+    "top_values":[
+      384.0,
+      299.01,
+      8.65
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.91,
+    "top_values":[
+      2.19,
+      1.86,
+      1.67
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.18,
+    "top_values":[
+      2.47,
+      2.19,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":67.47,
+    "top_values":[
+      173.07,
+      15.64,
+      13.71
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":6.42,
+    "top_values":[
+      15.65,
+      1.94,
+      1.66
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-73.83,
+    "top_values":[
+      1.94,
+      1.66,
+      -225.08
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":27.97,
+    "top_values":[
+      27.97,
+      27.97,
+      27.97
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":327.71,
+    "top_values":[
+      384.0,
+      300.13,
+      299.01
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.38,
+    "top_values":[
+      1.38
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.39,
+    "top_values":[
+      1.39
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.36,
+    "top_values":[
+      1.36
+    ]
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.23,
+    "top_values":[
+      1.23
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":7.1,
+    "top_values":[
+      15.64,
+      2.86,
+      2.79
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.24,
+    "top_values":[
+      1.24
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":10.75,
+    "top_values":[
+      27.97,
+      2.34,
+      1.94
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":111.7,
+    "top_values":[
+      299.01,
+      27.43,
+      8.65
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.74,
+    "top_values":[
+      1.94,
+      1.55
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.74,
+    "top_values":[
+      1.94,
+      1.55
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":74.96,
+    "top_values":[
+      192.0,
+      27.97,
+      4.9
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":131.01,
+    "top_values":[
+      192.0,
+      173.07,
+      27.97
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.27,
+    "top_values":[
+      1.27
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.27,
+    "top_values":[
+      1.27
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.16,
+    "top_values":[
+      1.16
+    ]
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.0,
+    "top_values":[
+      1.0
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":221.36,
+    "top_values":[
+      299.01,
+      192.0,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.75,
+    "top_values":[
+      1.94,
+      1.56
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":7.2,
+    "top_values":[
+      15.64,
+      3.23,
+      2.73
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.93,
+    "top_values":[
+      2.19,
+      1.81,
+      1.78
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":142.54,
+    "top_values":[
+      384.0,
+      27.97,
+      15.64
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.27,
+    "top_values":[
+      1.27
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-6.72,
+    "top_values":[
+      1.94,
+      1.61,
+      -23.71
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":118.26,
+    "top_values":[
+      173.07,
+      173.07,
+      8.65
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":166.55,
+    "top_values":[
+      299.01,
+      192.0,
+      8.65
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":157.05,
+    "top_values":[
+      172.65,
+      153.25,
+      145.25
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.32,
+    "top_values":[
+      1.32
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.33,
+    "top_values":[
+      1.33
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.7,
+    "top_values":[
+      1.94,
+      1.47
+    ]
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.35,
+    "top_values":[
+      1.35
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":215.05,
+    "top_values":[
+      299.01,
+      173.07,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.85,
+    "top_values":[
+      1.94,
+      1.87,
+      1.73
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":59.49,
+    "top_values":[
+      172.64,
+      2.96,
+      2.87
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.05,
+    "top_values":[
+      2.34,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":21.35,
+    "top_values":[
+      27.97,
+      27.43,
+      8.65
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.41,
+    "top_values":[
+      1.41
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.85,
+    "top_values":[
+      1.94,
+      1.87,
+      1.75
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":15.01,
+    "top_values":[
+      27.97,
+      13.71,
+      3.34
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":214.91,
+    "top_values":[
+      299.01,
+      173.07,
+      172.64
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":327.34,
+    "top_values":[
+      384.0,
+      299.01,
+      299.01
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.51,
+    "top_values":[
+      1.51
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.49,
+    "top_values":[
+      1.49
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.72,
+    "top_values":[
+      1.94,
+      1.51
+    ]
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.41,
+    "top_values":[
+      1.41
+    ]
+  },
+  {
+    "fullName":"Chamarri Conner",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.08,
+    "top_values":[
+      1.08
+    ]
+  },
+  {
+    "fullName":"Chamarri Conner",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.7,
+    "top_values":[
+      1.94,
+      1.46
+    ]
+  },
+  {
+    "fullName":"Chamarri Conner",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.66,
+    "top_values":[
+      1.94,
+      1.39
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.87,
+    "top_values":[
+      2.93,
+      2.87,
+      2.8
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.34,
+    "top_values":[
+      1.34
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.28,
+    "top_values":[
+      2.55,
+      2.34,
+      1.94
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":67.48,
+    "top_values":[
+      173.07,
+      15.65,
+      13.71
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.03,
+    "top_values":[
+      1.94,
+      1.59,
+      -0.44
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.13,
+    "top_values":[
+      2.86,
+      1.94,
+      1.59
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":142.54,
+    "top_values":[
+      384.0,
+      27.97,
+      15.64
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":243.25,
+    "top_values":[
+      384.0,
+      173.1,
+      172.65
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.3,
+    "top_values":[
+      1.3
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.3,
+    "top_values":[
+      1.3
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.26,
+    "top_values":[
+      1.26
+    ]
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.14,
+    "top_values":[
+      1.14
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":7.09,
+    "top_values":[
+      15.64,
+      2.85,
+      2.79
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.92,
+    "top_values":[
+      0.92
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.64,
+    "top_values":[
+      1.87,
+      1.41
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.05,
+    "top_values":[
+      2.34,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":203.91,
+    "top_values":[
+      299.01,
+      299.01,
+      13.71
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.75,
+    "top_values":[
+      1.94,
+      1.56
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.75,
+    "top_values":[
+      1.94,
+      1.56
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":139.61,
+    "top_values":[
+      384.0,
+      27.97,
+      6.86
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.27,
+    "top_values":[
+      1.27
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.28,
+    "top_values":[
+      1.28
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.62,
+    "top_values":[
+      1.94,
+      1.3
+    ]
+  },
+  {
+    "fullName":"Brenton Strange",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.16,
+    "top_values":[
+      1.16
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.67,
+    "top_values":[
+      2.8,
+      2.67,
+      2.55
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.88,
+    "top_values":[
+      0.88
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.58,
+    "top_values":[
+      1.87,
+      1.3
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.04,
+    "top_values":[
+      2.34,
+      1.94,
+      1.85
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":64.03,
+    "top_values":[
+      172.65,
+      13.71,
+      5.73
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.09,
+    "top_values":[
+      2.86,
+      1.94,
+      1.47
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.71,
+    "top_values":[
+      1.94,
+      1.48
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":172.77,
+    "top_values":[
+      192.0,
+      173.07,
+      153.25
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.21,
+    "top_values":[
+      1.21
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.18,
+    "top_values":[
+      1.18
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-11.28,
+    "top_values":[
+      1.15,
+      -23.71
+    ]
+  },
+  {
+    "fullName":"Noah Gray",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.02,
+    "top_values":[
+      1.02
+    ]
+  },
+  {
+    "fullName":"Trent McDuffie",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.14,
+    "top_values":[
+      1.14
+    ]
+  },
+  {
+    "fullName":"Trent McDuffie",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.74,
+    "top_values":[
+      1.94,
+      1.54
+    ]
+  },
+  {
+    "fullName":"Trent McDuffie",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.21,
+    "top_values":[
+      1.21
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":114.03,
+    "top_values":[
+      299.01,
+      27.43,
+      15.64
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":58.72,
+    "top_values":[
+      172.65,
+      1.86,
+      1.64
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.05,
+    "top_values":[
+      2.34,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":163.8,
+    "top_values":[
+      173.07,
+      173.07,
+      145.25
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-73.87,
+    "top_values":[
+      1.94,
+      1.54,
+      -225.08
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.74,
+    "top_values":[
+      1.94,
+      1.55
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":68.03,
+    "top_values":[
+      192.0,
+      8.65,
+      3.43
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":215.05,
+    "top_values":[
+      299.01,
+      173.07,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.25,
+    "top_values":[
+      1.25
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.28,
+    "top_values":[
+      1.28
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.3,
+    "top_values":[
+      1.3
+    ]
+  },
+  {
+    "fullName":"Dyami Brown",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-35.26,
+    "top_values":[
+      1.16,
+      -71.68
+    ]
+  },
+  {
+    "fullName":"Jaylen Watson",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.04,
+    "top_values":[
+      1.04
+    ]
+  },
+  {
+    "fullName":"Jaylen Watson",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.7,
+    "top_values":[
+      1.94,
+      1.47
+    ]
+  },
+  {
+    "fullName":"Jaylen Watson",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.19,
+    "top_values":[
+      1.19
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":6.61,
+    "top_values":[
+      13.71,
+      3.07,
+      3.04
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.5,
+    "top_values":[
+      1.5
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.89,
+    "top_values":[
+      1.94,
+      1.87,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":221.37,
+    "top_values":[
+      299.01,
+      192.0,
+      173.1
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.69,
+    "top_values":[
+      1.94,
+      1.45
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.72,
+    "top_values":[
+      1.94,
+      1.49
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":126.9,
+    "top_values":[
+      192.0,
+      173.07,
+      15.64
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":15.99,
+    "top_values":[
+      27.43,
+      15.64,
+      4.9
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-11.27,
+    "top_values":[
+      1.17,
+      -23.71
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-20.23,
+    "top_values":[
+      1.18,
+      -41.63
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-6.76,
+    "top_values":[
+      1.94,
+      1.48,
+      -23.71
+    ]
+  },
+  {
+    "fullName":"Parker Washington",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.23,
+    "top_values":[
+      1.23
+    ]
+  },
+  {
+    "fullName":"George Karlaftis",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.89,
+    "top_values":[
+      0.89
+    ]
+  },
+  {
+    "fullName":"George Karlaftis",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.82,
+    "top_values":[
+      1.94,
+      1.69
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":285.36,
+    "top_values":[
+      384.0,
+      299.01,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.69,
+    "top_values":[
+      1.94,
+      1.44
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.18,
+    "top_values":[
+      2.47,
+      2.19,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":10.59,
+    "top_values":[
+      27.97,
+      1.94,
+      1.87
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":221.36,
+    "top_values":[
+      299.01,
+      192.0,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.63,
+    "top_values":[
+      1.94,
+      1.32
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.72,
+    "top_values":[
+      1.94,
+      1.51
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":74.47,
+    "top_values":[
+      192.0,
+      27.97,
+      3.43
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":6.73,
+    "top_values":[
+      13.71,
+      3.26,
+      3.23
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":243.38,
+    "top_values":[
+      384.0,
+      173.07,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.22,
+    "top_values":[
+      1.22
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.25,
+    "top_values":[
+      1.25
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.66,
+    "top_values":[
+      1.94,
+      1.38
+    ]
+  },
+  {
+    "fullName":"Brashard Smith",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.21,
+    "top_values":[
+      1.21
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.48,
+    "top_values":[
+      2.64,
+      2.52,
+      2.28
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.11,
+    "top_values":[
+      1.11
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":59.04,
+    "top_values":[
+      173.07,
+      2.19,
+      1.86
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":126.76,
+    "top_values":[
+      192.0,
+      172.65,
+      15.64
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.3,
+    "top_values":[
+      1.3
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.31,
+    "top_values":[
+      1.31
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":66.22,
+    "top_values":[
+      192.0,
+      3.43,
+      3.23
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":124.41,
+    "top_values":[
+      192.0,
+      153.25,
+      27.97
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.01,
+    "top_values":[
+      1.01
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.03,
+    "top_values":[
+      1.03
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.89,
+    "top_values":[
+      0.89
+    ]
+  },
+  {
+    "fullName":"Tim Patrick",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.82,
+    "top_values":[
+      0.82
+    ]
+  },
+  {
+    "fullName":"Nick Bolton",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.11,
+    "top_values":[
+      3.23,
+      0.99
+    ]
+  },
+  {
+    "fullName":"Nick Bolton",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.62,
+    "top_values":[
+      1.94,
+      1.29
+    ]
+  },
+  {
+    "fullName":"Nick Bolton",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.72,
+    "top_values":[
+      1.94,
+      1.49
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.57,
+    "top_values":[
+      3.23,
+      2.41,
+      2.06
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.99,
+    "top_values":[
+      0.99
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.62,
+    "top_values":[
+      1.87,
+      1.36
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":63.84,
+    "top_values":[
+      172.65,
+      15.64,
+      3.23
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.12,
+    "top_values":[
+      1.12
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.15,
+    "top_values":[
+      1.15
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":11.3,
+    "top_values":[
+      27.97,
+      2.99,
+      2.93
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":3.06,
+    "top_values":[
+      3.23,
+      3.0,
+      2.95
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.89,
+    "top_values":[
+      0.89
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.96,
+    "top_values":[
+      0.96
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.13,
+    "top_values":[
+      1.13
+    ]
+  },
+  {
+    "fullName":"Jalen Royals",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.98,
+    "top_values":[
+      0.98
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":59.38,
+    "top_values":[
+      173.07,
+      2.61,
+      2.47
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.0,
+    "top_values":[
+      1.0
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.38,
+    "top_values":[
+      1.38
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":139.62,
+    "top_values":[
+      384.0,
+      28.01,
+      6.86
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.11,
+    "top_values":[
+      1.11
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.62,
+    "top_values":[
+      1.94,
+      1.31
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":101.84,
+    "top_values":[
+      299.01,
+      3.43,
+      3.07
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":70.36,
+    "top_values":[
+      192.0,
+      15.64,
+      3.43
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.02,
+    "top_values":[
+      1.02
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.92,
+    "top_values":[
+      2.86,
+      0.98
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.69,
+    "top_values":[
+      1.87,
+      1.51
+    ]
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.58,
+    "top_values":[
+      1.87,
+      1.3
+    ]
+  },
+  {
+    "fullName":"Chris Jones",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.88,
+    "top_values":[
+      0.88
+    ]
+  },
+  {
+    "fullName":"Chris Jones",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.78,
+    "top_values":[
+      1.94,
+      1.63
+    ]
+  },
+  {
+    "fullName":"Josh Hines-Allen",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.89,
+    "top_values":[
+      0.89
+    ]
+  },
+  {
+    "fullName":"Josh Hines-Allen",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.83,
+    "top_values":[
+      1.94,
+      1.87,
+      1.68
+    ]
+  },
+  {
+    "fullName":"Devin Lloyd",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.06,
+    "top_values":[
+      1.06
+    ]
+  },
+  {
+    "fullName":"Devin Lloyd",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":2.19,
+    "top_values":[
+      3.23,
+      1.94,
+      1.4
+    ]
+  },
+  {
+    "fullName":"Devin Lloyd",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":-6.76,
+    "top_values":[
+      1.94,
+      1.5,
+      -23.71
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":130.87,
+    "top_values":[
+      192.0,
+      172.64,
+      27.97
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.3,
+    "top_values":[
+      1.3
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.95,
+    "top_values":[
+      2.19,
+      1.87,
+      1.8
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.95,
+    "top_values":[
+      2.28,
+      1.83,
+      1.75
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":19.57,
+    "top_values":[
+      27.43,
+      15.64,
+      15.64
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.18,
+    "top_values":[
+      1.18
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.66,
+    "top_values":[
+      1.94,
+      1.38
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":221.36,
+    "top_values":[
+      299.01,
+      192.0,
+      173.07
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":133.17,
+    "top_values":[
+      384.0,
+      8.65,
+      6.86
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":232.88,
+    "top_values":[
+      384.0,
+      299.01,
+      15.64
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.05,
+    "top_values":[
+      1.05
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.08,
+    "top_values":[
+      1.08
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.15,
+    "top_values":[
+      1.15
+    ]
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.03,
+    "top_values":[
+      1.03
+    ]
+  },
+  {
+    "fullName":"Tyson Campbell",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.07,
+    "top_values":[
+      1.07
+    ]
+  },
+  {
+    "fullName":"Tyson Campbell",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.7,
+    "top_values":[
+      1.94,
+      1.47
+    ]
+  },
+  {
+    "fullName":"Tyson Campbell",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.1,
+    "top_values":[
+      1.1
+    ]
+  },
+  {
+    "fullName":"Jourdan Lewis",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.08,
+    "top_values":[
+      1.08
+    ]
+  },
+  {
+    "fullName":"Jourdan Lewis",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.7,
+    "top_values":[
+      1.94,
+      1.47
+    ]
+  },
+  {
+    "fullName":"Jourdan Lewis",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.58,
+    "top_values":[
+      1.87,
+      1.28
+    ]
+  },
+  {
+    "fullName":"Bryan Cook",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.11,
+    "top_values":[
+      1.11
+    ]
+  },
+  {
+    "fullName":"Bryan Cook",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.72,
+    "top_values":[
+      1.94,
+      1.5
+    ]
+  },
+  {
+    "fullName":"Bryan Cook",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.13,
+    "top_values":[
+      1.13
+    ]
+  },
+  {
+    "fullName":"Andrew Wingard",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.04,
+    "top_values":[
+      1.04
+    ]
+  },
+  {
+    "fullName":"Andrew Wingard",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.68,
+    "top_values":[
+      1.94,
+      1.42
+    ]
+  },
+  {
+    "fullName":"Andrew Wingard",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.27,
+    "top_values":[
+      1.27
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.66,
+    "top_values":[
+      2.77,
+      2.67,
+      2.55
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.8,
+    "top_values":[
+      0.8
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.21,
+    "top_values":[
+      1.2,
+      -0.78
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.93,
+    "top_values":[
+      2.19,
+      1.83,
+      1.76
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":16.27,
+    "top_values":[
+      27.43,
+      15.64,
+      5.73
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.64,
+    "top_values":[
+      1.94,
+      1.34
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.64,
+    "top_values":[
+      1.94,
+      1.34
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":285.36,
+    "top_values":[
+      384.0,
+      299.01,
+      173.07
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.04,
+    "top_values":[
+      1.04
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.04,
+    "top_values":[
+      1.04
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.01,
+    "top_values":[
+      1.01
+    ]
+  },
+  {
+    "fullName":"Hunter Long",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.95,
+    "top_values":[
+      0.95
+    ]
+  },
+  {
+    "fullName":"Charles Omenihu",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.81,
+    "top_values":[
+      0.81
+    ]
+  },
+  {
+    "fullName":"Charles Omenihu",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.72,
+    "top_values":[
+      1.94,
+      1.51
+    ]
+  },
+  {
+    "fullName":"Emmanuel Ogbah",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.76,
+    "top_values":[
+      0.76
+    ]
+  },
+  {
+    "fullName":"Emmanuel Ogbah",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.72,
+    "top_values":[
+      1.94,
+      1.5
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":2.64,
+    "top_values":[
+      2.76,
+      2.64,
+      2.52
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.89,
+    "top_values":[
+      0.89
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.26,
+    "top_values":[
+      1.26
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.92,
+    "top_values":[
+      2.19,
+      1.85,
+      1.71
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":166.68,
+    "top_values":[
+      299.01,
+      173.07,
+      27.97
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":1.27,
+    "top_values":[
+      1.27
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":-11.22,
+    "top_values":[
+      1.27,
+      -23.71
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":66.2,
+    "top_values":[
+      192.0,
+      3.43,
+      3.18
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.98,
+    "top_values":[
+      0.98
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.98,
+    "top_values":[
+      0.98
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.99,
+    "top_values":[
+      0.99
+    ]
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.92,
+    "top_values":[
+      0.92
+    ]
+  },
+  {
+    "fullName":"Foyesade Oluokun",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.94,
+    "top_values":[
+      0.94
+    ]
+  },
+  {
+    "fullName":"Foyesade Oluokun",
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.24,
+    "top_values":[
+      1.24
+    ]
+  },
+  {
+    "fullName":"Foyesade Oluokun",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":-73.89,
+    "top_values":[
+      1.94,
+      1.46,
+      -225.07
+    ]
+  },
+  {
+    "fullName":"Arik Armstead",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":149.96,
+    "top_values":[
+      299.01,
+      0.91
+    ]
+  },
+  {
+    "fullName":"Arik Armstead",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.76,
+    "top_values":[
+      1.94,
+      1.59
+    ]
+  },
+  {
+    "fullName":"Dawuane Smoot",
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football",
+    "final_line":0.76,
+    "top_values":[
+      0.76
+    ]
+  },
+  {
+    "fullName":"Dawuane Smoot",
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football",
+    "final_line":1.73,
+    "top_values":[
+      1.94,
+      1.52
+    ]
+  }
+]

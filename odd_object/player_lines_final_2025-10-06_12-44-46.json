@@ -1,0 +1,2150 @@
+[
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":300.13
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc2-76",
+    "market":"interceptions_thrown",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":3.23
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc3-77",
+    "market":"player_points",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":2.61
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcw-70",
+    "market":"passing_yards",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcx-71",
+    "market":"passing_tds",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg1-85",
+    "market":"longest_completion",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2-86",
+    "market":"longest_rush",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgx-81",
+    "market":"passing_completions",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":1.28
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":1.29
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk1-95",
+    "market":"passing_rushing_yards",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc2-76",
+    "market":"interceptions_thrown",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":10.95
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc3-77",
+    "market":"player_points",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":2.34
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcw-70",
+    "market":"passing_yards",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcx-71",
+    "market":"passing_tds",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg1-85",
+    "market":"longest_completion",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2-86",
+    "market":"longest_rush",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgx-81",
+    "market":"passing_completions",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":172.65
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":1.18
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":1.23
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk1-95",
+    "market":"passing_rushing_yards",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":173.1
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":2.19
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Trevor Lawrence",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":2.79
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":13.71
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2-86",
+    "market":"longest_rush",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":15.64
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":13.71
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":1.38
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":1.38
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Isiah Pacheco",
+    "decimal_odds":1.33
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Travis Kelce",
+    "decimal_odds":2.87
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Travis Kelce",
+    "decimal_odds":0.92
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Travis Kelce",
+    "decimal_odds":1.87
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Travis Kelce",
+    "decimal_odds":173.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Travis Kelce",
+    "decimal_odds":300.2
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Travis Kelce",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Travis Kelce",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Travis Kelce",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Travis Kelce",
+    "decimal_odds":1.38
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Travis Kelce",
+    "decimal_odds":1.36
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Travis Kelce",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Travis Kelce",
+    "decimal_odds":1.18
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkw-90",
+    "market":"field_goal_made",
+    "player_name":"Harrison Butker",
+    "decimal_odds":2.34
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkx-91",
+    "market":"extra_point_made",
+    "player_name":"Harrison Butker",
+    "decimal_odds":2.34
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzky-92",
+    "market":"player_points",
+    "player_name":"Harrison Butker",
+    "decimal_odds":2.77
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":173.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":1.36
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":2.61
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":145.25
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":1.36
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":1.36
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":1.31
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Hollywood Brown",
+    "decimal_odds":1.18
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":172.65
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":2.47
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":1.39
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":1.39
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Xavier Worthy",
+    "decimal_odds":1.25
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":2.8
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2-86",
+    "market":"longest_rush",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":1.41
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":1.39
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Kareem Hunt",
+    "decimal_odds":1.31
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkw-90",
+    "market":"field_goal_made",
+    "player_name":"Cam Little",
+    "decimal_odds":15.64
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkx-91",
+    "market":"extra_point_made",
+    "player_name":"Cam Little",
+    "decimal_odds":2.34
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzky-92",
+    "market":"player_points",
+    "player_name":"Cam Little",
+    "decimal_odds":15.64
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Travis Hunter",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Travis Hunter",
+    "decimal_odds":1.87
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Travis Hunter",
+    "decimal_odds":2.55
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Travis Hunter",
+    "decimal_odds":173.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Travis Hunter",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Travis Hunter",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Travis Hunter",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Travis Hunter",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Travis Hunter",
+    "decimal_odds":1.3
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Travis Hunter",
+    "decimal_odds":1.33
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Travis Hunter",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Travis Hunter",
+    "decimal_odds":1.18
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":2.19
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":2.47
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":173.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":15.65
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":1.38
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":1.39
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":1.36
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Brian Thomas Jr.",
+    "decimal_odds":1.23
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":15.64
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":1.24
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":1.27
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":1.27
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":1.16
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Tyquan Thornton",
+    "decimal_odds":1.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":15.64
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":2.19
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":1.27
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2-86",
+    "market":"longest_rush",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":173.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":172.65
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":1.32
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":1.33
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Bhayshul Tuten",
+    "decimal_odds":1.35
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":172.64
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":2.34
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":1.41
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2-86",
+    "market":"longest_rush",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":1.51
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":1.49
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Travis Etienne Jr.",
+    "decimal_odds":1.41
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Chamarri Conner",
+    "decimal_odds":1.08
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Chamarri Conner",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Chamarri Conner",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":2.93
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":1.34
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":2.55
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":173.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":2.86
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":1.3
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":1.3
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":1.26
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"JuJu Smith-Schuster",
+    "decimal_odds":1.14
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Brenton Strange",
+    "decimal_odds":15.64
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Brenton Strange",
+    "decimal_odds":0.92
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Brenton Strange",
+    "decimal_odds":1.87
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Brenton Strange",
+    "decimal_odds":2.34
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Brenton Strange",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Brenton Strange",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Brenton Strange",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Brenton Strange",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Brenton Strange",
+    "decimal_odds":1.27
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Brenton Strange",
+    "decimal_odds":1.28
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Brenton Strange",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Brenton Strange",
+    "decimal_odds":1.16
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Noah Gray",
+    "decimal_odds":2.8
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Noah Gray",
+    "decimal_odds":0.88
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Noah Gray",
+    "decimal_odds":1.87
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Noah Gray",
+    "decimal_odds":2.34
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Noah Gray",
+    "decimal_odds":172.65
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Noah Gray",
+    "decimal_odds":2.86
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Noah Gray",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Noah Gray",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Noah Gray",
+    "decimal_odds":1.21
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Noah Gray",
+    "decimal_odds":1.18
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Noah Gray",
+    "decimal_odds":1.15
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Noah Gray",
+    "decimal_odds":1.02
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Trent McDuffie",
+    "decimal_odds":1.14
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Trent McDuffie",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Trent McDuffie",
+    "decimal_odds":1.21
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Dyami Brown",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Dyami Brown",
+    "decimal_odds":172.65
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Dyami Brown",
+    "decimal_odds":2.34
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Dyami Brown",
+    "decimal_odds":173.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Dyami Brown",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Dyami Brown",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Dyami Brown",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Dyami Brown",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Dyami Brown",
+    "decimal_odds":1.25
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Dyami Brown",
+    "decimal_odds":1.28
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Dyami Brown",
+    "decimal_odds":1.3
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Dyami Brown",
+    "decimal_odds":1.16
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Jaylen Watson",
+    "decimal_odds":1.04
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Jaylen Watson",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Jaylen Watson",
+    "decimal_odds":1.19
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Parker Washington",
+    "decimal_odds":13.71
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Parker Washington",
+    "decimal_odds":1.5
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Parker Washington",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Parker Washington",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Parker Washington",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Parker Washington",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Parker Washington",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Parker Washington",
+    "decimal_odds":27.43
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Parker Washington",
+    "decimal_odds":1.17
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Parker Washington",
+    "decimal_odds":1.18
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Parker Washington",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Parker Washington",
+    "decimal_odds":1.23
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"George Karlaftis",
+    "decimal_odds":0.89
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"George Karlaftis",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Brashard Smith",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Brashard Smith",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Brashard Smith",
+    "decimal_odds":2.47
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Brashard Smith",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Brashard Smith",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Brashard Smith",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Brashard Smith",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2-86",
+    "market":"longest_rush",
+    "player_name":"Brashard Smith",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Brashard Smith",
+    "decimal_odds":13.71
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Brashard Smith",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Brashard Smith",
+    "decimal_odds":1.22
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Brashard Smith",
+    "decimal_odds":1.25
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Brashard Smith",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Brashard Smith",
+    "decimal_odds":1.21
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Tim Patrick",
+    "decimal_odds":2.64
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Tim Patrick",
+    "decimal_odds":1.11
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Tim Patrick",
+    "decimal_odds":173.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Tim Patrick",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Tim Patrick",
+    "decimal_odds":1.3
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Tim Patrick",
+    "decimal_odds":1.31
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Tim Patrick",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Tim Patrick",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Tim Patrick",
+    "decimal_odds":1.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Tim Patrick",
+    "decimal_odds":1.03
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Tim Patrick",
+    "decimal_odds":0.89
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Tim Patrick",
+    "decimal_odds":0.82
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Nick Bolton",
+    "decimal_odds":3.23
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Nick Bolton",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Nick Bolton",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Jalen Royals",
+    "decimal_odds":3.23
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Jalen Royals",
+    "decimal_odds":0.99
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Jalen Royals",
+    "decimal_odds":1.87
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Jalen Royals",
+    "decimal_odds":172.65
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Jalen Royals",
+    "decimal_odds":1.12
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Jalen Royals",
+    "decimal_odds":1.15
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Jalen Royals",
+    "decimal_odds":27.97
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Jalen Royals",
+    "decimal_odds":3.23
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Jalen Royals",
+    "decimal_odds":0.89
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Jalen Royals",
+    "decimal_odds":0.96
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Jalen Royals",
+    "decimal_odds":1.13
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Jalen Royals",
+    "decimal_odds":0.98
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":173.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":1.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":1.38
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":1.11
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":1.02
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":2.86
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":1.87
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Nikko Remigio",
+    "decimal_odds":1.87
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Chris Jones",
+    "decimal_odds":0.88
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Chris Jones",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Josh Hines-Allen",
+    "decimal_odds":0.89
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Josh Hines-Allen",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Devin Lloyd",
+    "decimal_odds":1.06
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Devin Lloyd",
+    "decimal_odds":3.23
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Devin Lloyd",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":1.3
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":2.19
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":2.28
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":27.43
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":1.18
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2-86",
+    "market":"longest_rush",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw-80",
+    "market":"receiving_rushing_yards",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":1.05
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":1.08
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":1.15
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"LeQuint Allen Jr.",
+    "decimal_odds":1.03
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Tyson Campbell",
+    "decimal_odds":1.07
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Tyson Campbell",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Tyson Campbell",
+    "decimal_odds":1.1
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Jourdan Lewis",
+    "decimal_odds":1.08
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Jourdan Lewis",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Jourdan Lewis",
+    "decimal_odds":1.87
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Bryan Cook",
+    "decimal_odds":1.11
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Bryan Cook",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Bryan Cook",
+    "decimal_odds":1.13
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Andrew Wingard",
+    "decimal_odds":1.04
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Andrew Wingard",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Andrew Wingard",
+    "decimal_odds":1.27
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Hunter Long",
+    "decimal_odds":2.77
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Hunter Long",
+    "decimal_odds":0.8
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Hunter Long",
+    "decimal_odds":1.2
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Hunter Long",
+    "decimal_odds":2.19
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Hunter Long",
+    "decimal_odds":27.43
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Hunter Long",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Hunter Long",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Hunter Long",
+    "decimal_odds":384.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Hunter Long",
+    "decimal_odds":1.04
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Hunter Long",
+    "decimal_odds":1.04
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Hunter Long",
+    "decimal_odds":1.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Hunter Long",
+    "decimal_odds":0.95
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Charles Omenihu",
+    "decimal_odds":0.81
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Charles Omenihu",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Emmanuel Ogbah",
+    "decimal_odds":0.76
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Emmanuel Ogbah",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":2.76
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":0.89
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4-78",
+    "market":"player_points",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":1.26
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5-79",
+    "market":"receptions",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":2.19
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy-72",
+    "market":"receiving_yards",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz-73",
+    "market":"receiving_tds",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":1.27
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":1.27
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3-87",
+    "market":"longest_reception",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":192.0
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy-82",
+    "market":"first_td_scorer",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":0.98
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz-83",
+    "market":"last_td_scorer",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":0.98
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2-96",
+    "market":"fumbles",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":0.99
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3-97",
+    "market":"lost_fumbles",
+    "player_name":"Johnny Mundt",
+    "decimal_odds":0.92
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Foyesade Oluokun",
+    "decimal_odds":0.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0-94",
+    "market":"defensive_interceptions",
+    "player_name":"Foyesade Oluokun",
+    "decimal_odds":1.24
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Foyesade Oluokun",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Arik Armstead",
+    "decimal_odds":299.01
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Arik Armstead",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0-84",
+    "market":"anytime_td_scorer",
+    "player_name":"Dawuane Smoot",
+    "decimal_odds":0.76
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz-93",
+    "market":"sacks",
+    "player_name":"Dawuane Smoot",
+    "decimal_odds":1.94
+  }
+]
