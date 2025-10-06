@@ -1,8 +1,3 @@
-Here’s a **professional, structured README.md** tailored for your uploaded project — the **HotStreak Sports Odds Data Pipeline**.
-It follows the same tone and structure used by production data engineering teams, clearly showing your technical skill to hiring managers.
-
----
-
 # 🧩 HotStreak Sports Odds Data Pipeline
 
 A **fully automated Python ETL pipeline** that fetches, decodes, and structures **sports betting odds data** from the **HotStreak GraphQL API**.
@@ -165,20 +160,22 @@ Example of final JSON output (`player_lines_final_2025-10-06_11-34-15.json`):
 ```json
 [
   {
-    "fullName": "Patrick Mahomes",
-    "category_name": "Rushing yards",
-    "group": "offense",
-    "sport": "Football",
-    "final_line": 188.57,
-    "top_values": [384.0, 173.07, 8.65]
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0-74",
+    "market":"rushing_yards",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":384.0
   },
   {
-    "fullName": "Travis Kelce",
-    "category_name": "Receptions",
-    "group": "offense",
-    "sport": "Football",
-    "final_line": 2.25,
-    "top_values": [2.55, 2.34, 1.87]
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1-75",
+    "market":"rushing_tds",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":1.94
+  },
+  {
+    "id":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc2-76",
+    "market":"interceptions_thrown",
+    "player_name":"Patrick Mahomes",
+    "decimal_odds":1.94
   }
 ]
 ```
@@ -231,13 +228,15 @@ HotStreak API
    │        └─ extracts numeric lines, top odds, and averages
    └──► main.py                    →  orchestrates entire process
 ```
-
 ---
 
-## 🧾 License
+## 🚀 Future Improvements (Advanced Implementation)
 
-This project is licensed under the **MIT License** — feel free to modify and use it for your own analytics or data engineering workflows.
+* 🧩 **Odds–Match UI Display** – Develop a visual dashboard that mirrors HotStreak’s live odds interface, displaying real-time player and match data.
+* ⚡ **Real-Time Updates** – Integrate WebSocket or Pusher subscriptions to automatically refresh odds and match statuses.
+* 🧠 **Smart Scraping Engine** – Add asynchronous or batched API calls for faster, more efficient data collection across multiple sports.
+* 🔄 **Data Flow Intelligence** – Map dependencies between matches, odds, and categories to reflect the platform’s internal data flow more accurately.
+* 🛡️ **Performance Optimization** – Implement caching, retry logic, and parallel decoding to improve scalability and reliability for high-volume use.
+
 
 ---
-
-Would you like me to also include a **“Challenges & Solutions”** section at the end (for portfolio or interview submission)? It would summarize your debugging insights — e.g., Base64 padding issues, zlib errors, and data mapping challenges — in a way that impresses technical reviewers.
