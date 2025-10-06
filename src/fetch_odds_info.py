@@ -165,11 +165,11 @@ def save_odds_data(df_markets, df_all_categories):
     base_dir.mkdir(parents=True, exist_ok=True)
 
     try:
-        df_markets.to_csv(base_dir / "odds_markets_raw.csv", index=False)
-        df_all_categories.to_csv(base_dir / "odds_categories_decoded.csv", index=False)
+        df_markets.to_json(base_dir / "odds_markets_raw.json", orient='records', indent=2)
+        df_all_categories.to_json(base_dir / "odds_categories_decoded.json", orient='records', indent=2)
         print(f"📁 Saved data to {base_dir}")
     except Exception as e:
-        print(f"❌ Failed to save CSVs: {e}")
+        print(f"❌ Failed to save JSON files: {e}")
 
 
 # =====================================================

@@ -402,7 +402,7 @@ python -c "from main import validate_project_structure; validate_project_structu
 import pandas as pd
 
 # Load final output
-df = pd.read_csv('odd_object/player_lines_final_<timestamp>.csv')
+df = pd.read_json('odd_object/player_lines_final_<timestamp>.csv')
 
 # Basic checks
 print(df.info())

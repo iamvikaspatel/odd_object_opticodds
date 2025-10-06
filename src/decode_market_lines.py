@@ -141,21 +141,21 @@ def run_marketline_decoding():
     merged_dir = Path("data/processed")
     odds_dir = Path("data/raw/odds")
 
-    latest_merged = get_latest_file(merged_dir, "player_category_map_*.csv")
+    latest_merged = get_latest_file(merged_dir, "player_category_map_*.json")
     latest_odds_folder = max([d for d in odds_dir.iterdir() if d.is_dir()], key=lambda d: d.stat().st_mtime, default=None)
 
     if not latest_merged or not latest_odds_folder:
         print("❌ Missing required data files. Run previous pipelines first.")
         return
 
-    markets_file = latest_odds_folder / "odds_markets_raw.csv"
+    markets_file = latest_odds_folder / "odds_markets_raw.json"
     print(f"📂 Using:\n  Merged → {latest_merged}\n  Markets → {markets_file}")
 
     try:
-        df_merged = pd.read_csv(latest_merged)
-        df_markets = pd.read_csv(markets_file)
+        df_merged = pd.read_json(latest_merged)
+        df_markets = pd.read_json(markets_file)
     except Exception as e:
-        print(f"❌ Error reading CSVs: {e}")
+        print(f"❌ Error reading JSON files: {e}")
         return
 
     df_final = decode_all_players(df_merged, df_markets)
@@ -166,10 +166,10 @@ def run_marketline_decoding():
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     output_dir = Path("data/odd_object")
     output_dir.mkdir(parents=True, exist_ok=True)
-    output_path = output_dir / f"player_lines_final_{timestamp}.csv"
+    output_path = output_dir / f"player_lines_final_{timestamp}.json"
 
     try:
-        df_final.to_csv(output_path, index=False)
+        df_final.to_json(output_path, orient='records', indent=2)
         print(f"📁 Final decoded lines saved → {output_path}")
     except Exception as e:
         print(f"❌ Failed to save decoded file: {e}")

@@ -1,0 +1,3332 @@
+[
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc2",
+    "decoded":"gid:\/\/hs3\/Category\/76",
+    "numeric_id":76,
+    "category_name":"Interceptions thrown",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc3",
+    "decoded":"gid:\/\/hs3\/Category\/77",
+    "numeric_id":77,
+    "category_name":"Passing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcw",
+    "decoded":"gid:\/\/hs3\/Category\/70",
+    "numeric_id":70,
+    "category_name":"Passing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcx",
+    "decoded":"gid:\/\/hs3\/Category\/71",
+    "numeric_id":71,
+    "category_name":"Passing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg1",
+    "decoded":"gid:\/\/hs3\/Category\/85",
+    "numeric_id":85,
+    "category_name":"Longest completion",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+    "decoded":"gid:\/\/hs3\/Category\/86",
+    "numeric_id":86,
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgx",
+    "decoded":"gid:\/\/hs3\/Category\/81",
+    "numeric_id":81,
+    "category_name":"Passing completions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk1",
+    "decoded":"gid:\/\/hs3\/Category\/95",
+    "numeric_id":95,
+    "category_name":"Passing rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Patrick Mahomes",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc2",
+    "decoded":"gid:\/\/hs3\/Category\/76",
+    "numeric_id":76,
+    "category_name":"Interceptions thrown",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc3",
+    "decoded":"gid:\/\/hs3\/Category\/77",
+    "numeric_id":77,
+    "category_name":"Passing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcw",
+    "decoded":"gid:\/\/hs3\/Category\/70",
+    "numeric_id":70,
+    "category_name":"Passing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcx",
+    "decoded":"gid:\/\/hs3\/Category\/71",
+    "numeric_id":71,
+    "category_name":"Passing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg1",
+    "decoded":"gid:\/\/hs3\/Category\/85",
+    "numeric_id":85,
+    "category_name":"Longest completion",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+    "decoded":"gid:\/\/hs3\/Category\/86",
+    "numeric_id":86,
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgx",
+    "decoded":"gid:\/\/hs3\/Category\/81",
+    "numeric_id":81,
+    "category_name":"Passing completions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk1",
+    "decoded":"gid:\/\/hs3\/Category\/95",
+    "numeric_id":95,
+    "category_name":"Passing rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trevor Lawrence",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+    "decoded":"gid:\/\/hs3\/Category\/86",
+    "numeric_id":86,
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Isiah Pacheco",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Kelce",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Harrison Butker",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkw",
+    "decoded":"gid:\/\/hs3\/Category\/90",
+    "numeric_id":90,
+    "category_name":"Field goal made",
+    "group":"specialteams",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Harrison Butker",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkx",
+    "decoded":"gid:\/\/hs3\/Category\/91",
+    "numeric_id":91,
+    "category_name":"Extra point made",
+    "group":"specialteams",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Harrison Butker",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzky",
+    "decoded":"gid:\/\/hs3\/Category\/92",
+    "numeric_id":92,
+    "category_name":"Kicking points",
+    "group":"specialteams",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hollywood Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Xavier Worthy",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+    "decoded":"gid:\/\/hs3\/Category\/86",
+    "numeric_id":86,
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Kareem Hunt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Cam Little",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkw",
+    "decoded":"gid:\/\/hs3\/Category\/90",
+    "numeric_id":90,
+    "category_name":"Field goal made",
+    "group":"specialteams",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Cam Little",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkx",
+    "decoded":"gid:\/\/hs3\/Category\/91",
+    "numeric_id":91,
+    "category_name":"Extra point made",
+    "group":"specialteams",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Cam Little",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzky",
+    "decoded":"gid:\/\/hs3\/Category\/92",
+    "numeric_id":92,
+    "category_name":"Kicking points",
+    "group":"specialteams",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Hunter",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brian Thomas Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyquan Thornton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+    "decoded":"gid:\/\/hs3\/Category\/86",
+    "numeric_id":86,
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bhayshul Tuten",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+    "decoded":"gid:\/\/hs3\/Category\/86",
+    "numeric_id":86,
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Travis Etienne Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Chamarri Conner",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Chamarri Conner",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Chamarri Conner",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"JuJu Smith-Schuster",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brenton Strange",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Noah Gray",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trent McDuffie",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trent McDuffie",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Trent McDuffie",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dyami Brown",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jaylen Watson",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jaylen Watson",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jaylen Watson",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Parker Washington",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"George Karlaftis",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"George Karlaftis",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+    "decoded":"gid:\/\/hs3\/Category\/86",
+    "numeric_id":86,
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Brashard Smith",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tim Patrick",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nick Bolton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nick Bolton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nick Bolton",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jalen Royals",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Nikko Remigio",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Robert Tonyan",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Chris Jones",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Chris Jones",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Josh Hines-Allen",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Josh Hines-Allen",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Devin Lloyd",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Devin Lloyd",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Devin Lloyd",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+    "decoded":"gid:\/\/hs3\/Category\/86",
+    "numeric_id":86,
+    "category_name":"Longest rush",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+    "decoded":"gid:\/\/hs3\/Category\/80",
+    "numeric_id":80,
+    "category_name":"Receiving rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"LeQuint Allen Jr.",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyson Campbell",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyson Campbell",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Tyson Campbell",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jourdan Lewis",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jourdan Lewis",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Jourdan Lewis",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bryan Cook",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bryan Cook",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Bryan Cook",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Andrew Wingard",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Andrew Wingard",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Andrew Wingard",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Hunter Long",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Charles Omenihu",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Charles Omenihu",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Emmanuel Ogbah",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Emmanuel Ogbah",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+    "decoded":"gid:\/\/hs3\/Category\/74",
+    "numeric_id":74,
+    "category_name":"Rushing yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+    "decoded":"gid:\/\/hs3\/Category\/75",
+    "numeric_id":75,
+    "category_name":"Rushing tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+    "decoded":"gid:\/\/hs3\/Category\/78",
+    "numeric_id":78,
+    "category_name":"Rushing attempts",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+    "decoded":"gid:\/\/hs3\/Category\/79",
+    "numeric_id":79,
+    "category_name":"Receptions",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+    "decoded":"gid:\/\/hs3\/Category\/72",
+    "numeric_id":72,
+    "category_name":"Receiving yards",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+    "decoded":"gid:\/\/hs3\/Category\/73",
+    "numeric_id":73,
+    "category_name":"Receiving tds",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+    "decoded":"gid:\/\/hs3\/Category\/87",
+    "numeric_id":87,
+    "category_name":"Longest reception",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+    "decoded":"gid:\/\/hs3\/Category\/82",
+    "numeric_id":82,
+    "category_name":"First td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+    "decoded":"gid:\/\/hs3\/Category\/83",
+    "numeric_id":83,
+    "category_name":"Last td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+    "decoded":"gid:\/\/hs3\/Category\/96",
+    "numeric_id":96,
+    "category_name":"Fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Johnny Mundt",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+    "decoded":"gid:\/\/hs3\/Category\/97",
+    "numeric_id":97,
+    "category_name":"Lost fumbles",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Foyesade Oluokun",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Foyesade Oluokun",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+    "decoded":"gid:\/\/hs3\/Category\/94",
+    "numeric_id":94,
+    "category_name":"Defensive interceptions",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Foyesade Oluokun",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Arik Armstead",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Arik Armstead",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dawuane Smoot",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+    "decoded":"gid:\/\/hs3\/Category\/84",
+    "numeric_id":84,
+    "category_name":"Anytime td scorer",
+    "group":"offense",
+    "sport":"Football"
+  },
+  {
+    "fullName":"Dawuane Smoot",
+    "raw":"Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+    "decoded":"gid:\/\/hs3\/Category\/93",
+    "numeric_id":93,
+    "category_name":"Sacks",
+    "group":"defense",
+    "sport":"Football"
+  }
+]

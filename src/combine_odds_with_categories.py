@@ -33,21 +33,21 @@ def combine_odds_with_categories():
         print("❌ Missing odds or category data folder. Please run both pipelines first.")
         return
 
-    odds_file = latest_odds / "odds_categories_decoded.csv"
-    categories_file = latest_categories / "category_names_raw.csv"
+    odds_file = latest_odds / "odds_categories_decoded.json"
+    categories_file = latest_categories / "category_names_raw.json"
 
     print(f"📂 Using:\n  Odds → {odds_file}\n  Categories → {categories_file}")
 
-    # --- Read CSVs Safely ---
+    # --- Read JSON files Safely ---
     try:
-        df_odds = pd.read_csv(odds_file)
-        df_categories = pd.read_csv(categories_file)
+        df_odds = pd.read_json(odds_file)
+        df_categories = pd.read_json(categories_file)
     except Exception as e:
-        print(f"❌ Error reading one of the CSVs: {e}")
+        print(f"❌ Error reading one of the JSON files: {e}")
         return
 
     if df_odds.empty or df_categories.empty:
-        print("⚠️ One or both CSVs are empty. Skipping merge.")
+        print("⚠️ One or both JSON files are empty. Skipping merge.")
         return
 
     # --- Merge Data ---
@@ -70,10 +70,10 @@ def combine_odds_with_categories():
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     output_dir = Path("data/processed")
     output_dir.mkdir(parents=True, exist_ok=True)
-    output_path = output_dir / f"player_category_map_{timestamp}.csv"
+    output_path = output_dir / f"player_category_map_{timestamp}.json"
 
     try:
-        df_merged.to_csv(output_path, index=False)
+        df_merged.to_json(output_path, orient='records', indent=2)
         print(f"📁 Merged data saved → {output_path}")
     except Exception as e:
         print(f"❌ Failed to save merged file: {e}")

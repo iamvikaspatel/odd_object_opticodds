@@ -45,13 +45,13 @@ def validate_project_structure():
 # =====================================================
 def move_final_output():
     """Move the most recent 'player_lines_final_' file into odd_object/."""
-    processed_dir = Path("data/processed")
+    processed_dir = Path("data/odd_object")
     odd_object_dir = Path("odd_object")
     odd_object_dir.mkdir(parents=True, exist_ok=True)
 
-    final_files = sorted(processed_dir.glob("player_lines_final_*.csv"), key=lambda f: f.stat().st_mtime, reverse=True)
+    final_files = sorted(processed_dir.glob("player_lines_final_*.json"), key=lambda f: f.stat().st_mtime, reverse=True)
     if not final_files:
-        log("⚠️ No final decoded file found in processed folder.", "warning")
+        log("⚠️ No final decoded file found in data/odd_object folder.", "warning")
         return
 
     latest_file = final_files[0]

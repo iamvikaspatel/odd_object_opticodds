@@ -84,13 +84,13 @@ def save_category_data(df_categories):
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     output_dir = Path(f"data/raw/category_names/{timestamp}")
     output_dir.mkdir(parents=True, exist_ok=True)
-    output_file = output_dir / "category_names_raw.csv"
+    output_file = output_dir / "category_names_raw.json"
 
     try:
-        df_categories.to_csv(output_file, index=False)
+        df_categories.to_json(output_file, orient='records', indent=2)
         print(f"📁 Saved category names to {output_file}")
     except Exception as e:
-        print(f"❌ Failed to save category names CSV: {e}")
+        print(f"❌ Failed to save category names JSON: {e}")
 
 
 # =====================================================
