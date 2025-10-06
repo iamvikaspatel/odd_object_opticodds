@@ -58,3 +58,9 @@ config.ini
 
 # OS
 Thumbs.db
+
+# Ignore CSV files
+*.csv
+data/raw/**/*.csv
+data/processed/**/*.csv
+odd_object/**/*.csv
